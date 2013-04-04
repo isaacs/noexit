@@ -1,0 +1,21 @@
+{
+  "name": "noexit",
+  "version": "0.0.0",
+  "description": "Makes `process.exit` a deprecated no-op.",
+  "main": "noexit.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/isaacs/noexit"
+  },
+  "keywords": [
+    "exit",
+    "commandments",
+    "prevent"
+  ],
+  "author": "Isaac Z. Schlueter <i@izs.me> (http://blog.izs.me)",
+  "license": "BSD",
+  "readmeFilename": "README.md"
+}
