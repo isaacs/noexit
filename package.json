@@ -1,6 +1,6 @@
 {
   "name": "noexit",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Makes `process.exit` a deprecated no-op.",
   "main": "noexit.js",
   "scripts": {
